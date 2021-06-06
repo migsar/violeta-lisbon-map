@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ReactMapGL, { Layer, Marker, Source } from 'react-map-gl';
+import ReactMapGL, { Layer, Source } from 'react-map-gl';
 
 import PostMarker from './PostMarker';
 import data from './MapboxMap.data.json';
